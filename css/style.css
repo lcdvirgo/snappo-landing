@@ -120,7 +120,7 @@ html, body, svg { height: 100%; width: 100%; margin: 0; background: #8f8eb2;}
 @media only screen and (max-device-width: 480px) {
 .site-footer{    
     height: 50% !important;
-    top: -440px !important;
+    top: -380px !important;
     position: relative !important;
 }
 .page-wrap h1 {    
