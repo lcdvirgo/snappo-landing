@@ -112,6 +112,6 @@ html, body, svg { height: 100%; width: 100%; margin: 0; background: #8f8eb2;}
 }
 
 @font-face {
-  font-family: 'Graphik-Regulat';
+  font-family: 'Graphik-Regular';
   src: url('graphik/Graphik-Regular.otf'); /* IE9 Compat Modes */ 
 }
